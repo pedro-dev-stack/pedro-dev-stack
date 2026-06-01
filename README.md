@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- ░░░ MATRIX RAIN HEADER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Pedro Stack&fontSize=70&color=0:0D1117,100:36BCF7&stroke=36BCF7&strokeWidth=2&fontColor=36BCF7&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Logic%20%7C%20Design%20%7C%20Math&descAlignY=65&descSize=18" />
+
+<!-- ░░░ TYPING SVG ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=⚡+Full-Stack+Developer+%7C+Open+to+Work;🧠+Logic+%2B+Math+%2B+Design+%3D+Great+Software;🚀+Turning+ideas+into+scalable+products;🎯+Clean+Code+%7C+Clean+Architecture+%7C+Clean+Mind;💡+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Olá,+visitante!+Seja+bem-vindo.;Desenvolvedor+Full-Stack;Design,+Lógica+%26+Matemática.">
 
   <p>
